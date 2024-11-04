@@ -26,4 +26,3 @@ def count_lychrel_num(limit):
 
 limit = 10000
 print(count_lychrel_num(limit))
-# print(ispalindrom(4994))
